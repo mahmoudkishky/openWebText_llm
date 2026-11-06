@@ -1,0 +1,21 @@
+MICRO_BATCH_SIZE = 4
+BATCH_SIZE = 256
+VAL_BATCH_SIZE = 4
+MAX_SEQ_LENGTH = 1024
+INITIAL_LEARNING_RATE = 2e-04
+NUM_ATTENTION_HEADS =12
+EMBEDDING_DIM = 768
+NUM_TRANSFORMER_LAYERS = 12
+VOCAB_SIZE = 32000
+VAL_SET_RATIO = 0.1
+TOTAL_TRAINING_STEPS = 30000
+OPENWEBTEXT_CACHE_DIR = "~/.cache/huggingface/datasets/openwebtext"
+MAX_DOCS = None  # number of OpenWebText documents to use; None = all
+FFN_DIM = 3072
+WARMUP_STEPS = 1000
+MIN_LR_RATIO = 0.2  # final LR as a fraction of INITIAL_LEARNING_RATE
+NUM_VAL_BATCHES = 50  # validation batches averaged per evaluation 
+RESUME_REWARM_STEPS = 200  # LR re-warmup when resuming from a checkpoint without optimizer state
+EMBEDDING_DROPOUT = 0.1
+ATTENTION_DROPOUT = 0.1
+RESIDUAL_DROPOUT = 0.1

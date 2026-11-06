@@ -1,0 +1,11 @@
+Leonhard Euler was a Swiss mathematician and physicist. He was born on April 15, 1707, in the city of Basel in Switzerland. He died on September 18, 1783, in St Petersburg, Russia, at the age of seventy-six.
+
+Euler studied at the University of Basel. There he met Johann Bernoulli, a famous mathematician who became his teacher and mentor. Euler later worked at the Academy of Sciences in St Petersburg. He then spent many years at the Berlin Academy, and in 1766 he returned to St Petersburg.
+
+Euler gave mathematics much of the notation we still use today. He made the notation f(x) popular for a function. He used the letter e for the base of the natural logarithms and the letter i for the square root of minus one. He also used the Greek letter sigma to mean a sum.
+
+Euler solved the Basel problem. He showed that the sum of the reciprocals of the squares of the whole numbers equals pi squared divided by six. He is also known for Euler's identity, which says that e to the power of i times pi, plus one, equals zero. His polyhedron formula says that for a convex solid, the number of vertices minus the number of edges plus the number of faces is always two.
+
+Euler studied the Seven Bridges of Konigsberg problem, and this work helped begin graph theory. He also used mathematics to study the motion of particles, the movement of solid bodies, and the flow of fluids. He did research in astronomy, elasticity, acoustics, topology, and ship design.
+
+Euler lost much of his sight as he grew older, and in the end he became completely blind. Even so, he kept producing a huge amount of mathematical work.
