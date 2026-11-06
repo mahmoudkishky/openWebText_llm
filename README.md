@@ -143,3 +143,10 @@ ChromaDB collection and source-labelled retrieval. Its OpenAI embeddings and
 existing NASA collection are not imported because they use a different
 embedding model. The previous `knowledge_base.sqlite3` keyword index is not
 automatically imported or deleted; re-upload its original `.txt` files.
+
+
+## Demo
+
+
+https://github.com/user-attachments/assets/0b922d75-78fd-4ec4-b70f-f8c5776a94f7
+
